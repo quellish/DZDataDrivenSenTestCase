@@ -52,8 +52,8 @@
 		1B3FC2D015776C2D00274A65 /* DZDataDrivenSenTestCase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DZDataDrivenSenTestCase.h; sourceTree = "<group>"; };
 		1B3FC2D115776C2D00274A65 /* DZDataDrivenSenTestCase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DZDataDrivenSenTestCase.m; sourceTree = "<group>"; };
 		1B3FC2D415776C5C00274A65 /* DataDrivenExampleTests.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DataDrivenExampleTests.plist; sourceTree = "<group>"; };
-		1B3FC2D91577737900274A65 /* COPYING */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = COPYING; path = ../COPYING; sourceTree = "<group>"; };
-		1B3FC2DB157773B400274A65 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		1B3FC2D91577737900274A65 /* COPYING */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = COPYING; path = ../../COPYING; sourceTree = "<group>"; };
+		1B3FC2DB157773B400274A65 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
