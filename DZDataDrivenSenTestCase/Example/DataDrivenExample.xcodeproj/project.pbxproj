@@ -19,8 +19,6 @@
 		1B3FC2D215776C2D00274A65 /* DZTestCaseDictionaryDataSource.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B3FC2CF15776C2D00274A65 /* DZTestCaseDictionaryDataSource.m */; };
 		1B3FC2D315776C2D00274A65 /* DZDataDrivenSenTestCase.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B3FC2D115776C2D00274A65 /* DZDataDrivenSenTestCase.m */; };
 		1B3FC2D515776C5C00274A65 /* DataDrivenExampleTests.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1B3FC2D415776C5C00274A65 /* DataDrivenExampleTests.plist */; };
-		1B3FC2DA1577737900274A65 /* COPYING in Resources */ = {isa = PBXBuildFile; fileRef = 1B3FC2D91577737900274A65 /* COPYING */; };
-		1B3FC2DC157773B500274A65 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 1B3FC2DB157773B400274A65 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -252,8 +250,6 @@
 			files = (
 				1B3FC2B215776B0C00274A65 /* InfoPlist.strings in Resources */,
 				1B3FC2D515776C5C00274A65 /* DataDrivenExampleTests.plist in Resources */,
-				1B3FC2DA1577737900274A65 /* COPYING in Resources */,
-				1B3FC2DC157773B500274A65 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
